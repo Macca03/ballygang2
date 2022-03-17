@@ -1,0 +1,19 @@
+{
+  "CONTRACT_ADDRESS": "0x3c24327078db31E770af8D0a36A0F0749d7625F4",
+  "SCAN_LINK": "https://etherscan.io/address/0x197Cfa25C2c589a69A77B7c7B82214F6e84d9748",
+  "NETWORK": {
+    "NAME": "Ethereum Mainnet",
+    "SYMBOL": "ETH",
+    "ID": 1
+  },
+  "NFT_NAME": "Bally Gang",
+  "SYMBOL": "BGNFT",
+  "MAX_SUPPLY": 8888,
+  "MAX_MINTAMOUNT": 400,
+  "WEI_COST": 110000000000000000,
+  "DISPLAY_COST": 0.11,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Discord",
+  "MARKETPLACE_LINK": "https://discord.com/invite/7kBeXAFyUy",
+  "SHOW_BACKGROUND": true
+}
